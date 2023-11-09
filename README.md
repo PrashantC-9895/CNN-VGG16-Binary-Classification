@@ -14,7 +14,9 @@ Here is a quick outline of the VGG architecture:
 **Introduction**
 The VGG16 (Visual Geometry Group 16) is a deep convolutional neural network architecture that gained immense popularity in the world of computer vision and deep learning. Developed by the Visual Geometry Group at the University of Oxford, VGG16 is known for its simplicity, elegance, and remarkable performance on various computer vision tasks. In this article, we'll explore the architecture, purpose, and significance of the VGG16 model.
 
-***Architecture***
+‖***Architecture***‖
+
+
 
 **Deep Layers**:- 
 VGG16 is characterized by its deep architecture, consisting of 16 weight layers, which includes 13 convolutional layers and 3 fully connected layers. It is this depth that sets VGG16 apart from its predecessors. The convolutional layers are designed to extract hierarchical features from images, capturing everything from edges and textures to complex patterns and object representations.
